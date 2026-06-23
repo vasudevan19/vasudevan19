@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Vasudevan 👋
 
-<!--
-**vasudevan19/vasudevan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with 2+ years of experience building web applications using Laravel, PHP, MySQL, and JavaScript.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working as a Backend Developer at GoWebEz
+- Experienced with Laravel, PHP, MySQL, Redis, Git, Linux
+- Interested in Backend Engineering and System Design
+- Learning React, TypeScript, Docker, and Node.js
+
+## 🚀 Tech Stack
+
+### Backend
+PHP • Laravel • MySQL • Redis • REST APIs
+
+### Frontend
+HTML • CSS • SCSS • JavaScript • jQuery • Bootstrap
+
+### Tools
+Git • GitHub • Linux • AWS CloudWatch
+
+## 📌 Featured Project
+
+### Daily Task Checklist App
+
+A task management application built using React, TypeScript, Tailwind CSS, Laravel, and MySQL.
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/vasudevan-m-74155514b
+- Email: vasudevan191999@gmail.com
