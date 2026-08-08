@@ -28,5 +28,5 @@ A task management application built using React, TypeScript, Tailwind CSS, Larav
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/vasudevan-m-74155514b
+- LinkedIn: www.linkedin.com/in/vasudevan19-m
 - Email: vasudevan191999@gmail.com
