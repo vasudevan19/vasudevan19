@@ -1,32 +1,69 @@
-# Hi, I'm Vasudevan 👋
+# Hi, I'm Vasudevan
 
-Backend Developer with 2+ years of experience building web applications using Laravel, PHP, MySQL, and JavaScript.
+### Backend Developer
 
-## 👨‍💻 About Me
+I'm a **Backend Developer with 2+ years of experience** building business applications and enterprise software.
 
-- Currently working as a Backend Developer at GoWebEz
-- Experienced with Laravel, PHP, MySQL, Redis, Git, Linux
-- Interested in Backend Engineering and System Design
-- Learning React, TypeScript, Docker, and Node.js
+I work on **backend systems, APIs, business logic, databases, authentication, background jobs, caching, integrations, and performance optimization**.
 
-## 🚀 Tech Stack
+Currently, I'm learning **Java, Data Structures & Algorithms, Low-Level Design, and System Design** to strengthen my backend engineering fundamentals.
 
-### Backend
-PHP • Laravel • MySQL • Redis • REST APIs
+---
 
-### Frontend
-HTML • CSS • SCSS • JavaScript • jQuery • Bootstrap
+## What I Do
 
-### Tools
-Git • GitHub • Linux • AWS CloudWatch
+I enjoy solving problems involving **business rules, data, workflows, and system performance**.
 
-## 📌 Featured Project
+* Build REST APIs and backend services
+* Design and optimize database-driven features
+* Implement authentication, authorization, and business logic
+* Build event-driven workflows and background jobs
+* Improve application performance through caching and query optimization
+* Integrate external services such as payments and notifications
 
-### Daily Task Checklist App
+---
 
-A task management application built using React, TypeScript, Tailwind CSS, Laravel, and MySQL.
+## Technologies
 
-## 📫 Connect With Me
+- **Backend:** PHP · Laravel · Node.js · Express.js
+- **Database:** MySQL · Redis · MongoDB
+- **Frontend:** JavaScript · TypeScript · React · jQuery · Tailwind CSS
+- **Tools:** Git · GitHub · Docker · Linux
 
-- LinkedIn: www.linkedin.com/in/vasudevan19-m
-- Email: vasudevan191999@gmail.com
+---
+
+## Project
+
+### Tasker — Daily Task Checklist
+
+A full-stack task management application built with **React, TypeScript, Laravel, and MySQL**.
+
+* Task creation and completion tracking
+* Date-based filtering
+* RESTful API
+* JWT authentication with HTTP-only cookies
+* React + Laravel integration
+
+[View Project](https://github.com/vasudevan19/tasker)
+
+---
+
+## Currently Learning
+
+I'm focusing on understanding **how and why software systems are designed**, not just how to use frameworks.
+
+* Java and its ecosystem
+* Data Structures & Algorithms
+* Low-Level Design
+* System Design
+* Distributed Systems
+* Database and system internals
+
+---
+
+## Connect
+
+Email : [vasudevan191999@gmail.com](mailto:vasudevan191999@gmail.com) <br>
+LinkedIn : [https://linkedin.com/in/vasudevan19-m](https://linkedin.com/in/vasudevan19-m) <br>
+
+> Build with purpose. Understand the problem, design the solution, and make it reliable.
