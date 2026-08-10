@@ -1,69 +1,75 @@
-# Hi, I'm Vasudevan
+# Hi there, I'm Vasudevan 👋
 
-### Backend Developer
+### 🚀 Backend Developer
 
-I'm a **Backend Developer with 2+ years of experience** building business applications and enterprise software.
+I am a **Backend Developer with 2+ years of experience** building scalable business applications, RESTful APIs, and enterprise software systems. 
 
-I work on **backend systems, APIs, business logic, databases, authentication, background jobs, caching, integrations, and performance optimization**.
-
-Currently, I'm learning **Java, Data Structures & Algorithms, Low-Level Design, and System Design** to strengthen my backend engineering fundamentals.
+I focus on solving complex problems involving **business logic, data workflows, authentication, and backend performance optimization**.
 
 ---
 
-## What I Do
+### 🛠️ Tech Stack & Tools
 
-I enjoy solving problems involving **business rules, data, workflows, and system performance**.
+**Languages & Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-* Build REST APIs and backend services
-* Design and optimize database-driven features
-* Implement authentication, authorization, and business logic
-* Build event-driven workflows and background jobs
-* Improve application performance through caching and query optimization
-* Integrate external services such as payments and notifications
+**Databases & Caching**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## Technologies
-
-- **Backend:** PHP · Laravel · Node.js · Express.js
-- **Database:** MySQL · Redis · MongoDB
-- **Frontend:** JavaScript · TypeScript · React · jQuery · Tailwind CSS
-- **Tools:** Git · GitHub · Docker · Linux
-
----
-
-## Project
-
-### Tasker — Daily Task Checklist
-
-A full-stack task management application built with **React, TypeScript, Laravel, and MySQL**.
-
-* Task creation and completion tracking
-* Date-based filtering
-* RESTful API
-* JWT authentication with HTTP-only cookies
-* React + Laravel integration
-
-[View Project](https://github.com/vasudevan19/tasker)
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Currently Learning
+### ⚡ What I Do
 
-I'm focusing on understanding **how and why software systems are designed**, not just how to use frameworks.
+* **API & System Design:** Architecting REST APIs, backend services, and authentication/authorization models.
+* **Database & Performance Optimization:** Query tuning, data modeling, and leveraging caching strategies (Redis).
+* **Workflows & Background Jobs:** Building asynchronous event-driven processes and integrating third-party APIs (Payments, Notifications).
 
-* Java and its ecosystem
+---
+
+### 📌 Featured Project
+
+**[Tasker — Daily Task Checklist](https://github.com/vasudevan19/tasker)**
+> A full-stack task management application focusing on secure authentication and seamless client-server integration.
+
+* **Tech Stack:** React, TypeScript, Laravel, MySQL
+* **Key Features:** RESTful API architecture, JWT authentication with HTTP-only cookies, date-based filtering.
+
+---
+
+### 🌱 Leveling Up
+
+Moving beyond frameworks to deepen my understanding of core engineering fundamentals:
+
+* Java & Enterprise Architecture
 * Data Structures & Algorithms
-* Low-Level Design
-* System Design
-* Distributed Systems
-* Database and system internals
+* Low-Level & High-Level System Design
+* Distributed Systems & Database Internals
 
 ---
 
-## Connect
+### 📫 Connect With Me
 
-Email : [vasudevan191999@gmail.com](mailto:vasudevan191999@gmail.com) <br>
-LinkedIn : [https://linkedin.com/in/vasudevan19-m](https://linkedin.com/in/vasudevan19-m) <br>
+[![Email Badge](https://img.shields.io/badge/Email-vasudevan191999%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:vasudevan191999@gmail.com) <br/>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-vasudevan19--m-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasudevan19-m)
 
-> Build with purpose. Understand the problem, design the solution, and make it reliable.
+---
+
+> *"Build with purpose. Understand the problem, design the solution, and make it reliable."*
